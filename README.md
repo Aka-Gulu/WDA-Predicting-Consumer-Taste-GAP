@@ -1,5 +1,10 @@
 # Predicting Consumer Tastes with Big Data at Gap
 
+## Deliverables
+**Slides link**: [https://docs.google.com/presentation/d/1wr-xoj4kxiEdfxvro9TGLDhrViEZetRe/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true](https://docs.google.com/presentation/d/1wr-xoj4kxiEdfxvro9TGLDhrViEZetRe/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true)  
+**Presentation video link**: [https://drive.google.com/file/d/1ONg86he8wphObLUKxgCF6fKWAtKqgUc0/view?usp=sharing](https://drive.google.com/file/d/1ONg86he8wphObLUKxgCF6fKWAtKqgUc0/view?usp=sharing)
+**Final Report link**: [https://drive.google.com/file/d/1SAg675KpfZ9kvBmEWOBdJWynvmglRyf-/view?usp=sharing](https://drive.google.com/file/d/1SAg675KpfZ9kvBmEWOBdJWynvmglRyf-/view?usp=sharing)
+
 ## Introduction
 This project explores the balance between traditional creative intuition and data-driven decision-making in the fashion retail industry. It examines how Gap, a renowned fashion retailer, has shifted towards a data-centric strategy under CEO Art Peck, impacting its sister brands, Old Navy and Banana Republic. Our team conducted an in-depth analysis using advanced web data analytics to assess the efficacy of this transition and provide actionable insights for strategic decision-making.
 
