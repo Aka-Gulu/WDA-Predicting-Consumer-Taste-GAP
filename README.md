@@ -28,9 +28,4 @@ Our analysis yielded several important findings:
 ## Conclusion
 This project demonstrates the potential of big data in enhancing the strategic direction of fashion brands. By integrating data-driven insights with creative elements, Gap and its sister brands can maintain a competitive edge in the dynamic fashion industry. The detailed analysis and code files are available for further exploration and implementation.
 
-## Project Structure
-- **Data Collection:** Methods and tools used for data scraping and collection.
-- **Data Analysis:** Detailed analysis using statistical models and sentiment analysis.
-- **Code Files:** Scripts and notebooks used for data processing and analysis.
-- **Reports:** Comprehensive reports documenting the findings and recommendations.
 
